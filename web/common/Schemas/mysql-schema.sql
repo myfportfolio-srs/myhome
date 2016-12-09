@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS `homeautomate`;
-USE `homeautomate`;
+--CREATE DATABASE IF NOT EXISTS `homeautomate`;
+--USE `homeautomate`;
 --
 --
 --

@@ -7,3 +7,4 @@
 
     $connectionString = "mysql:host=$host;port=$port;dbname=$dbname";
     $db_connection = new PDO($connectionString, $user, $password);
+?>
