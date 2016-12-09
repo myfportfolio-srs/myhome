@@ -8,7 +8,7 @@
 /**
   All the GET request handler
 **/
-
+  $app->get('/group/{id}', "getGroupInfo");
   $app->get('/{id}', "getUserInfo");
   $app->get('/', "getNothing");
 /**
